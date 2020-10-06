@@ -1,6 +1,6 @@
 # RODE: Learning Roles to Decompose Multi-Agent Tasks
 
-RODE is a scalable role-based multi-agent learning method which effectively discovers roles based on joint action space decomposition according to action effects. It establishes a new state of the art on the StarCraft multi-agent benchmark.
+RODE ([ArXiv Link](https://arxiv.org/pdf/2010.01523.pdf)) is a scalable role-based multi-agent learning method which effectively discovers roles based on joint action space decomposition according to action effects. It establishes a new state of the art on the StarCraft multi-agent benchmark.
 
 This implementation is written in PyTorch and is based on [PyMARL](https://github.com/oxwhirl/pymarl) and [SMAC](https://github.com/oxwhirl/smac).
 
