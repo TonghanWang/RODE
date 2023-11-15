@@ -4,6 +4,8 @@ RODE ([ArXiv Link](https://arxiv.org/pdf/2010.01523.pdf)) is a scalable role-bas
 
 This implementation is written in PyTorch and is based on [PyMARL](https://github.com/oxwhirl/pymarl) and [SMAC](https://github.com/oxwhirl/smac).
 
+The results of RODE on the SMAC benchmark can be found [here](https://drive.google.com/file/d/1iZUoZO2x-rNBIxhfxn9txhsc4pVReU38/view?usp=sharing).
+
 ## Installation instructions
 
 Build the Dockerfile using 
